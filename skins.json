@@ -1,0 +1,760 @@
+{
+    "localization_name": "CandraSkins",
+    "serialize_name": "CandraSkins",
+    "skins": [
+          {
+            "localization_name": "CandraNormal",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraNormalSlim",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCustom1",
+            "geometry": "geometry.CandraSkin.Slim",
+            "texture": "candracustom.png",
+            "cape": "cape33.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCustom2",
+            "geometry": "geometry.CandraSkinJetpack.Slim",
+            "texture": "candracustom.png",
+            "cape": "cape33.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "NeylaMiyabi",
+            "geometry": "geometry.NeylaSkinMiyabi.Slim",
+            "texture": "miyabi.png",
+            "cape": "cape33.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "NeylaMiyabiLong",
+            "geometry": "geometry.NeylaSkinMiyabiLong.Slim",
+            "texture": "miyabi.png",
+            "cape": "cape33.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "NeylaMiyabiVeryLong",
+            "geometry": "geometry.NeylaSkinMiyabiVeryLong.Slim",
+            "texture": "miyabi.png",
+            "cape": "cape33.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "NeylaMiyabiAbsoluteLong",
+            "geometry": "geometry.NeylaSkinMiyabiAbsoluteLong.Slim",
+            "texture": "miyabi.png",
+            "cape": "cape33.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape1",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape1.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim1",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape1.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape2",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape2.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim2",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape2.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape3",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape3.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim3",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape3.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape4",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape4.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim4",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape4.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape5",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape5.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim5",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape5.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape6",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape6.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim6",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape6.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape7",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape7.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim7",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape7.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape8",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape8.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim8",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape8.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape9",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape9.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim9",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape9.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape10",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape10.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim10",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape10.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape11",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape11.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim11",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape11.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape12",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape12.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim12",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape12.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape13",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape13.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim13",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape13.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape14",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape14.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim14",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape14.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape15",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape15.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim15",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape15.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape16",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape16.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim16",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape16.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape17",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape17.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim17",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape17.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape18",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape18.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim18",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape18.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape19",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape19.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim19",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape19.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape20",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape20.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim20",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape20.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape21",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape21.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim21",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape21.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape22",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape22.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim22",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape22.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape23",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape23.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim23",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape23.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape24",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape24.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim24",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape24.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape25",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape25.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim25",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape25.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape26",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape26.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim26",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape26.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape27",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape27.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim27",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape27.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape28",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape28.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim28",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape28.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape29",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape29.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim29",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape29.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape30",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape30.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim30",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape30.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape31",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape31.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim31",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape31.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape32",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape32.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim32",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape32.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape33",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape33.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim33",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape33.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape34",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape34.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim34",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape34.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape35",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape35.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim35",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape35.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape36",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape36.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim36",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape36.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape37",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape37.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim37",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape37.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape38",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape38.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim38",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape38.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape39",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape39.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim39",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape39.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape40",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape40.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim40",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape40.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape41",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape41.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim41",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape41.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape42",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape42.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim42",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape42.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape43",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape43.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim43",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape43.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape44",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape44.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim44",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape44.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape45",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape45.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim45",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape45.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape46",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape46.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim46",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape46.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape47",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape47.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim47",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape47.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape48",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape48.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim48",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape48.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape49",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape49.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim49",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape49.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCape50",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "candra.png",
+            "cape": "cape50.png",
+            "type": "free"
+          },
+          {
+            "localization_name": "CandraCapeSlim50",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "candraslim.png",
+            "cape": "cape50.png",
+            "type": "free"
+          }
+    ]
+}
